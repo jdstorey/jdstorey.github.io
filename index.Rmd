@@ -1,0 +1,40 @@
+---
+title: "John D. Storey"
+image: "storey.jpg"
+links:
+  - label: Lab
+    url: "https://storeylab.org/"
+  - label: GitHub
+    url: "https://github.com/jdstorey/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jdstorey/"
+  - label: Email
+    url: "https://mailhide.io/e/ugECs"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+John D. Storey is the William R. Harman '63 and Mary-Love Harman Professor in Genomics, primarly appointed in the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu) at [Princeton University](https://www.princeton.edu). He has associated faculty appointments in Applied and Computational Mathematics, the Center for Statistics and Machine Learning, Computer Science, Molecular Biology, Operations Research and Financial Engineering, and the Princeton Institute for Computational Science and Engineering (PICSciE). He is the director of the NHGRI Quantitative and Computational Biology Graduate Training Program at Princeton University. For more information, check out a [brief biography](https://storeylab.org/storeybio/) and his [statistical genomics laboratory](https://storeylab.org/).
+
+## Education
+
+**Stanford University** | Ph.D. in Statistics | Ph.D. minor in Genetics | 2002
+
+## Experience
+
+**Princeton Universisty** | Professor | 2008 - Present
+
+**University of Washington** | Associate Professor | 2003 - 2008
+
+**University of California, Berkeley** | Assistant Professor | 2002 - 2003
+
+## Awards and Honors
+
+- [Founding Director](https://www.princeton.edu/news/2014/07/22/storey-head-new-center-statistics-and-machine-learning) of the [Center for Statistics and Machine Learning](https://csml.princeton.edu) 
+- Named [William R. Harman ’63 and Mary-Love Harman Professor in Genomics](https://www.princeton.edu/news/2014/10/08/faculty-chosen-endowed-professorships) 
+- [2015 COPSS Presidents’ Award](https://www.princeton.edu/news/2015/08/17/storey-receives-copss-presidents-award-outstanding-statisticians-40-or-younger)
+- [2015 Mortimer Spiegelman Award](https://www.princeton.edu/news/2015/05/28/faculty-award-storey-receives-mortimer-spiegelman-award-health-statisticians-under)
+- Elected fellow of the [Institute of Mathematical Statistics](https://imstat.org/2012/05/17/ims-fellows-announced/). 
+- Elected fellow of the [American Association for the Advancement of Science](https://www.princeton.edu/news/2011/12/22/faculty-award-six-professors-named-2011-aaas-fellows?section=topstories) 
